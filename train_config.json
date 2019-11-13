@@ -1,0 +1,8 @@
+{
+	"data_filepath": "data/<PUT THE NAME OF YOUR INFERENCE DATA FILE>",
+	"experiment_name": "<PUT DESIRED EXPERIMENT NAME HERE>",
+	"epochs": 2,
+	"loss": "categorical_crossentropy",
+	"batch_size": 32,
+	"optimizer": "adam"
+}
